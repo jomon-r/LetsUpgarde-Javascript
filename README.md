@@ -1,3 +1,3 @@
 # LetsUpgarde-Javascript
 
-Assignments of LetsUpgarde Javascript program
+Project and Assignments of LetsUpgarde Javascript program
